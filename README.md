@@ -6,7 +6,7 @@ Este programa foi feito para agilizar a contagem de pontos e sorteio de duplas e
 
 Na primeira rodada, as duplas são selecionadas aleatoriamente. A partir da segunda rodada, as duplas são classificadas por pontuação e agrupadas. O programa verifica qual a função desempenhada (abertura, whip, etc.) pela dupla e evita repetições.
 
-No momento, o programa não possui interface gráfica e precisa ser rodado no terminal.
+No momento, o programa não possui interface gráfica e precisa ser rodado no terminal. Veja como rodar um programa .py [aqui](https://stackoverflow.com/questions/1522564/how-do-i-run-a-python-program).
 
 ## O que o programa faz
 
@@ -104,10 +104,10 @@ Dupla Manuela e Neide são 1 a falar
 Dupla Gabriela e Hector são 4 a falar  
 Dupla Oparin e Pepe são 3 a falar  
 
-
 ## Como executar
 Para executar o programa, é necessário que as planilhas estejam na mesma pasta do programa .py. Python versão 2.7 é recomendada. Python 3 pode ser utilizado com pequenas modificações no código. 
 
+**Após cada rodada é necessário atualizar as planilhas manualmente utilizando um editor de texto. **
 
 ## Como contribuir
 Uma interface gráfica facilitaria o uso do programa. Talvez a estrutura do código não seja a melhor para ser implementada com uma interface para usuários, mas o algoritmo é eficiente para tornar mais justo a competição de debates. Sinta-se livre para usar este código ou partes dele.
